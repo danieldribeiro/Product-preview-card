@@ -17,7 +17,7 @@ Desafios feitos utilizando apenas HTML e CSS
 - See hover and focus states for interactive elements
 
 ### Screenshot
-![Final result screenshot](./finalReesult.png)
+![Final result screenshot](./finalResult.png)
 
 ## My Process
 
